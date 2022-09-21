@@ -1,0 +1,8 @@
+Test for Node 25 stuck at 1:   xxxxxxxxxxxxxxx1xxxxxxxx
+Test for Node 51 stuck at 0:   00xxxxxxxxxxxxx0xxxxxxxx
+Test for Node 105 stuck at 1:   01x1000xxx01xx10xxxxxxxx
+Test for Node 105 stuck at 0:   01x1xxxxxx1xxxx0xxxxxxxx
+Test for Node 83 stuck at 1:   01xx000xxx0x0x10xxxxxxxx
+Test for Node 92 stuck at 0:   01x0001xxx0001x0xxxxxxxx
+Test for Node 7 stuck at 0:   xxxxxx1xxxxxxxxxxxxxxxxx
+Test for Node 179 stuck at 0:   101xxxxxxxxxxxx0xxxxxxxx
